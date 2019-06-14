@@ -1,3 +1,4 @@
+require('newrelic');
 const app = require('./serverroutes.js');
 const port = 3011;
 
